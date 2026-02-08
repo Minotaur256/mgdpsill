@@ -2,7 +2,7 @@
     "id": 1096,
     "name": "epilogue I",
     "author": "trickgmd",
-    "creators": "trickgmd",
+    "creators": ["trickgmd"],
     "verifier": "none",
     "verification": "",
     "percentToQualify": 4,
